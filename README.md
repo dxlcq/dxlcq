@@ -1,7 +1,7 @@
 ## huhu
 
 - 🔭 妄图成为 DevOps Engineer 的 C++ Developer
-- 🌱 喜欢并热衷于分享 [OpenWRT](https://openwrt.org/) 与 [Docker](https://www.docker.com/)
+- 🌱 热衷于分享 [OpenWRT](https://openwrt.org/) 和 [Docker](https://www.docker.com/) 的知识，乐于帮助他人轻松入门这两个技术。
 - 👉 这是我的[简历](https://dxlcq.cn/src/jiao/profile/)及[详细经历](https://dxlcq.cn/src/jiao/cv/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
