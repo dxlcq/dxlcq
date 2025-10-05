@@ -1,6 +1,3 @@
-# DAI X.L.
-
-- test
 - 🔭 妄图成为 DevOps Engineer 的 C++ Developer
 - 🌱 热衷于推广 [OpenWRT](https://openwrt.org/) 和 [Docker](https://www.docker.com/)，必备开发工具 ‼️
 - 🏡 拥有无人监管的 HomeLab，欢迎交流与分享搭建经验 🤩
