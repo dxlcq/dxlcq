@@ -1,4 +1,4 @@
 - 🔭 A C++ Developer aspiring to become a DevOps Engineer
 - 🏡 Set up an automated HomeLab powered by [OpenWRT](https://openwrt.org/) and [Docker](https://www.docker.com/), essential for my development workflow
-- 👉 Check out my [profile](https://dxlcq.cn/src/jiao/profile/) and [cv](https://dxlcq.cn/src/jiao/cv/)
+- 👉 Check out my [profile](https://dxlcq.cn/profile/) and [cv](https://dxlcq.cn/cv/)
 - 📫 Feel free to contact me <a href="mailto:dxlcq@outlook.com" target="_blank">dxlcq@outlook.com</a> / 🐧 [1543117082]()
